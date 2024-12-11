@@ -1,0 +1,30 @@
+---
+title: " "
+format: html
+editor: visual
+---
+
+::: {align="center"}
+![](https://raw.githubusercontent.com/EcoCommons-Australia-2024-2026/ec-notebook_site_materials/main/images/EC_section_break.png){width=800}
+:::
+
+EcoCommons received investment (<https://doi.org/10.3565/chbq-mr75>) from the Australian Research Data Commons (ARDC). The ARDC is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS).
+
+::: {align="center"}
+**Our partner**
+:::
+
+::: {align="center"}
+![](https://raw.githubusercontent.com/EcoCommons-Australia-2024-2026/ec-notebook_site_materials/main/images/partners_logos.png){width=800}
+:::
+
+
+# **How to Cite EcoCommons**
+
+If you use EcoCommons in your research, please cite the platform as follows:
+
+> EcoCommons Australia 2024. *EcoCommons Australia – a collaborative commons for ecological and environmental modelling*, Queensland Cyber Infrastructure Foundation, Brisbane, Queensland. Available at: <https://data–explorer.app.ecocommons.org.au/> (Accessed: MM DD, YYYY). <https://doi.org/10.3565/chbq-mr75>
+
+You can download the citation file for EcoCommons Australia here: [Download the BibTeX file](reference.bib)
+
+© 2024 EcoCommons. All rights reserved.
