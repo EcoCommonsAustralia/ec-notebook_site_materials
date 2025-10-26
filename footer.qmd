@@ -7,16 +7,20 @@
 
 ::: {style="text-align: center;"}
 <h3 class="no-anchor" style="text-align: center;">
-  Our Partner
+
+Our Partner
+
 </h3>
 :::
 
 ::: {style="text-align: center;"}
-<img src="https://raw.githubusercontent.com/EcoCommons-Australia-2024-2026/ec-notebook_site_materials/main/images/partners_logos.png" alt="Partners Logos" width="750">
+![Partners Logos](https://raw.githubusercontent.com/EcoCommons-Australia-2024-2026/ec-notebook_site_materials/main/images/updated_ourpartner_2025.png){alt="Partners Logos"}
 :::
 
 <h3 class="no-anchor" style="text-align: center;">
-  How to Cite EcoCommons
+
+How to Cite EcoCommons
+
 </h3>
 
 <p style="text-align: center;">
@@ -27,7 +31,7 @@ If you use EcoCommons in your research, please cite the platform as follows:
 
 <blockquote style="text-align: center;">
 
-EcoCommons Australia 2024. <em>EcoCommons Australia – a collaborative commons for ecological and environmental modelling</em>, Queensland Cyber Infrastructure Foundation, Brisbane, Queensland. Available at: <a href="https://data–explorer.app.ecocommons.org.au/">https://data–explorer.app.ecocommons.org.au/</a> (Accessed: MM DD, YYYY). <a href="https://doi.org/10.3565/chbq-mr75">https://doi.org/10.3565/chbq-mr75</a>
+EcoCommons Australia 2025. <em>EcoCommons Australia – a collaborative commons for ecological and environmental modelling</em>, Queensland Cyber Infrastructure Foundation, Brisbane, Queensland. Available at: <a href="https://data–explorer.app.ecocommons.org.au/">https://data–explorer.app.ecocommons.org.au/</a> (Accessed: MM DD, YYYY). <a href="https://doi.org/10.3565/chbq-mr75">https://doi.org/10.3565/chbq-mr75</a>
 
 </blockquote>
 
@@ -39,7 +43,7 @@ You can download the citation file for EcoCommons Australia here: <a href="refer
 
 <p style="text-align: center;">
 
-© 2024 EcoCommons. All rights reserved.
+© 2025 EcoCommons. All rights reserved.
 
 </p>
 :::::
